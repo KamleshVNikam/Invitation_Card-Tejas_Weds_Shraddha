@@ -1,6 +1,6 @@
 # Template website undangan pernikahan sederhana
 
-![Thumbnail](/assets/images/banner.png)
+![Thumbnail](/assets/images/bg.jpeg)
 ![pages-build-deployment](https://github.com/dewanakl/undangan/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)
 ![Hits](https://badge.dikit.my.id/undangan?label=hits&color=brightgreen)
 
