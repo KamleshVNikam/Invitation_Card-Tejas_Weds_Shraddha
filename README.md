@@ -6,7 +6,7 @@
 
 ## Demo
 
-<https://dewanakl.github.io/undangan/?to=Teman+teman+semua>
+[<https://dewanakl.github.io/undangan/?to=Teman+teman+semua>](https://kamleshvnikam.github.io/Invitation_Card-Tejas_Weds_Shraddha/)
 
 ### Deployment API
 
@@ -36,4 +36,4 @@ If you find any security vulnerabilities in this undangan, please email and info
 
 ### License
 
-Undangan is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+This marriage invitation template is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
