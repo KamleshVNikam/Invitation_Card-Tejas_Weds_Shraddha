@@ -1,4 +1,4 @@
-# Template website undangan pernikahan sederhana
+# Template website for wedding invitation
 
 ![Thumbnail](/assets/images/bg.jpeg)
 ![pages-build-deployment](https://github.com/dewanakl/undangan/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)
